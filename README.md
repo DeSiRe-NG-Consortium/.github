@@ -1,1 +1,1 @@
-# .github
+# DeSiRe-NG Consortium
